@@ -1,0 +1,25 @@
+stt:
+  engine: "vosk"
+  vosk_model_path: ""
+  cloud_api_key: ""
+  cloud_endpoint: ""
+
+tts:
+  engine: "pyttsx3"
+  cloud_api_key: ""
+  cloud_endpoint: ""
+  voice_speed: 150
+  voice_rate: 1.0
+
+database:
+  path: "data/tamakkun.db"
+
+server:
+  host: "0.0.0.0"
+  port: 5000
+  debug: false
+
+audio:
+  sample_rate: 16000
+  chunk_size: 1024
+

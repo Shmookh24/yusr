@@ -1,0 +1,4077 @@
+[
+  {
+    "intent": "search",
+    "text": "ابحث عن هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث عن أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد البحث عن أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور على أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أبحث عن أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أبحث عن أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "ابحث لي عن أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "دور لي على أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لي أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "شو في أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "إيش في أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عرض أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "عايز أشتري أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبغى أشتري أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أريد شراء أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري هاتف",
+    "entities": {
+      "product": "هاتف"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري لابتوب",
+    "entities": {
+      "product": "لابتوب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري قهوة",
+    "entities": {
+      "product": "قهوة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري منتج",
+    "entities": {
+      "product": "منتج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري آيفون",
+    "entities": {
+      "product": "آيفون"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري سامسونج",
+    "entities": {
+      "product": "سامسونج"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري ماك بوك",
+    "entities": {
+      "product": "ماك بوك"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري بلايستيشن",
+    "entities": {
+      "product": "بلايستيشن"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري سماعة",
+    "entities": {
+      "product": "سماعة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري حذاء",
+    "entities": {
+      "product": "حذاء"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري كتاب",
+    "entities": {
+      "product": "كتاب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري رواية",
+    "entities": {
+      "product": "رواية"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري إلكترونيات",
+    "entities": {
+      "product": "إلكترونيات"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري ملابس",
+    "entities": {
+      "product": "ملابس"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري أطعمة",
+    "entities": {
+      "product": "أطعمة"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري كتب",
+    "entities": {
+      "product": "كتب"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري أثاث",
+    "entities": {
+      "product": "أثاث"
+    }
+  },
+  {
+    "intent": "search",
+    "text": "أبي أشتري أجهزة",
+    "entities": {
+      "product": "أجهزة"
+    }
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أضف للسلة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "ضيف للسلة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أضف للعربة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "ضيف للعربة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أضف هذا المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "ضيف هذا",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أريد إضافة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أبي أضيف",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "عايز أضيف",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أبغى أضيف",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "حط في السلة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "حطيه",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أضف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "ضيف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أضف هذا",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "ضيف هذا",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أريد إضافة هذا",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أبي أضيف هذا",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "عايز أضيف للسلة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أبغى أضيف للعربة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "أضف للعربة",
+    "entities": {}
+  },
+  {
+    "intent": "add_to_cart",
+    "text": "ضيف للعربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "عرض السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "شو في السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "إيش في السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "اقرأ السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "اعرض السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "أعرض السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "السلة إيش فيها",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "شو محتوى السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "عرض العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "شو في العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "إيش في العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "اقرأ العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "اعرض العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "أعرض العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "العربة إيش فيها",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "شو محتوى العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "ما في السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "ماذا في السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "عرض محتويات السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "أعرض محتويات السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "السلة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "العربة",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "المشتريات",
+    "entities": {}
+  },
+  {
+    "intent": "view_cart",
+    "text": "الطلبات في السلة",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "إتمام الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أكمل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أكمل الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "إتمام الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أريد الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أبي أشتري",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "عايز أشتري",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أبغى أشتري",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "تأكيد الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "تأكيد الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أكيد الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أكيد الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "دفع",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أدفع",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أريد الدفع",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أبي أدفع",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "عايز أدفع",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أبغى أدفع",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "إنهاء الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "إنهاء الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "إنهاء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أكمل",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "تمام",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "نعم",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "أكمل عملية الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "إتمام عملية الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "checkout",
+    "text": "تأكيد عملية الشراء",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "اذهب إلى الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "اذهب للحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "افتح الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "عرض الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "الملف الشخصي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "البروفايل",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "اذهب لصفحة الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "افتح صفحة الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "عرض صفحة الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "شو في حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "إيش في حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "حسابي إيش فيه",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "ما في حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "عرض حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "أعرض حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "اقرأ حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "اعرض حسابي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "الملف الشخصي",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "البروفايل",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "صفحة الحساب",
+    "entities": {}
+  },
+  {
+    "intent": "navigate_to_account",
+    "text": "حساب المستخدم",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أضف عنوان جديد",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "إضافة عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أضيف عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "ضيف عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أضف عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "إضافة عنوان جديد",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أريد إضافة عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أبي أضيف عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "عايز أضيف عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أبغى أضيف عنوان",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "عنوان جديد",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أضف عنوان للشحن",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "إضافة عنوان الشحن",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "أضف عنوان التوصيل",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "إضافة عنوان التوصيل",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "عنوان جديد للشحن",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "عنوان جديد للتوصيل",
+    "entities": {}
+  },
+  {
+    "intent": "add_address",
+    "text": "إضافة عنوان جديد",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضف طريقة دفع",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "إضافة طريقة دفع",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضيف طريقة دفع",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "ضيف طريقة دفع",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضف بطاقة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "إضافة بطاقة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضيف بطاقة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "ضيف بطاقة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضف كارت",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "إضافة كارت",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضف محفظة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "إضافة محفظة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أريد إضافة طريقة دفع",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أبي أضيف بطاقة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "عايز أضيف كارت",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أبغى أضيف محفظة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "طريقة دفع جديدة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "بطاقة جديدة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "كارت جديد",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "محفظة جديدة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "إضافة طريقة دفع جديدة",
+    "entities": {}
+  },
+  {
+    "intent": "add_payment_method",
+    "text": "أضف طريقة دفع جديدة",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 1",
+    "entities": {
+      "order_id": "1"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 2",
+    "entities": {
+      "order_id": "2"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 3",
+    "entities": {
+      "order_id": "3"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 4",
+    "entities": {
+      "order_id": "4"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 5",
+    "entities": {
+      "order_id": "5"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 6",
+    "entities": {
+      "order_id": "6"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 7",
+    "entities": {
+      "order_id": "7"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 8",
+    "entities": {
+      "order_id": "8"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب رقم 9",
+    "entities": {
+      "order_id": "9"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 1",
+    "entities": {
+      "order_id": "1"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 2",
+    "entities": {
+      "order_id": "2"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 3",
+    "entities": {
+      "order_id": "3"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 4",
+    "entities": {
+      "order_id": "4"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 5",
+    "entities": {
+      "order_id": "5"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 6",
+    "entities": {
+      "order_id": "6"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 7",
+    "entities": {
+      "order_id": "7"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 8",
+    "entities": {
+      "order_id": "8"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب رقم 9",
+    "entities": {
+      "order_id": "9"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 1",
+    "entities": {
+      "order_id": "1"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 2",
+    "entities": {
+      "order_id": "2"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 3",
+    "entities": {
+      "order_id": "3"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 4",
+    "entities": {
+      "order_id": "4"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 5",
+    "entities": {
+      "order_id": "5"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 6",
+    "entities": {
+      "order_id": "6"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 7",
+    "entities": {
+      "order_id": "7"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 8",
+    "entities": {
+      "order_id": "8"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب رقم 9",
+    "entities": {
+      "order_id": "9"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 1",
+    "entities": {
+      "order_id": "1"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 2",
+    "entities": {
+      "order_id": "2"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 3",
+    "entities": {
+      "order_id": "3"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 4",
+    "entities": {
+      "order_id": "4"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 5",
+    "entities": {
+      "order_id": "5"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 6",
+    "entities": {
+      "order_id": "6"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 7",
+    "entities": {
+      "order_id": "7"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 8",
+    "entities": {
+      "order_id": "8"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب رقم 9",
+    "entities": {
+      "order_id": "9"
+    }
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "احذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "حذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أحذف طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "شيل طلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أريد حذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبي أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "عايز أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "delete_order",
+    "text": "أبغى أحذف الطلب",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرأ الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرا الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرأ لي الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرا لي الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "وصف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "وصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرأ وصف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرا وصف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "أريد معرفة الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "أبي أعرف الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "عايز أعرف الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "أبغى أعرف الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "شو الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "إيش الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "ما الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "ماذا الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اعرض الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "أعرض الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرأ المزيد",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "اقرا المزيد",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "وصف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "ما هو الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "ماذا الوصف",
+    "entities": {}
+  },
+  {
+    "intent": "read_description",
+    "text": "أخبرني عن المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "عرض المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "أعرض المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "اعرض المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "شو المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "إيش المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "ما المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "ماذا المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "عرض المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "أعرض المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "اعرض المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "شو في المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "إيش في المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "ما في المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "ماذا في المتجر",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "جميع المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "كل المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "عرض جميع المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "أعرض جميع المنتجات",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "كل المنتجات المتاحة",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "جميع المنتجات المتاحة",
+    "entities": {}
+  },
+  {
+    "intent": "view_products",
+    "text": "عرض الكل",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "احذف من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "حذف من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "أحذف من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "شيل من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "احذف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "حذف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "أحذف المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "شيل المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "أزل من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "أزل المنتج",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "احذف المنتج من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "حذف المنتج من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "شيل المنتج من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "أزل المنتج من السلة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "احذف هذا",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "حذف هذا",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "أزل هذا",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "شيل هذا",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "احذف المنتج من العربة",
+    "entities": {}
+  },
+  {
+    "intent": "remove_from_cart",
+    "text": "حذف المنتج من العربة",
+    "entities": {}
+  }
+]
